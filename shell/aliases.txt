@@ -1,5 +1,0 @@
-echo 'These are several common shell aliases'
-
-# Common
-alias c="clear"
-alias ll='ls -la'
