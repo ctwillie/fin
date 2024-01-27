@@ -5,13 +5,13 @@ echo " |  __| | | '_ \ "
 echo " | |    | | | | |"
 echo " |_|    |_|_| |_|"
                  
-echo "Loading aliases..."
+echo -e "\nLoading aliases..."
 
 # Common
 alias c="clear"
 alias ll='ls -la'
 
-alias fin:help='echo -e "\n\nc='\''clear'\''\nll='\''ls -la'\'' \n\n"'
+alias fin:help='echo -e "c='\''clear'\''\nll='\''ls -la'\''"'
 
-echo "Aliases loaded!"
-echo "Run 'fin:help' to see available aliases"
+echo "Done!"
+echo -e "\nRun 'fin:help' to see available aliases"
