@@ -1,3 +1,5 @@
+echo 'These are several common shell aliases'
+
 # Common
-alias foo="echo foo"
-alias bar="echo bar"
+alias c="clear"
+alias ll='ls -la'
